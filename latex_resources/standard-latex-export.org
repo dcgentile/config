@@ -1,0 +1,12 @@
+#+title: Standard Latex Export
+
+#+LATEX_CLASS: org-plain-latex
+#+LATEX_CLASS_OPTIONS: [article]
+#+LATEX_HEADER: \usepackage{lmodern}
+#+LATEX_HEADER: \usepackage{graphicx}
+#+LATEX_HEADER: \usepackage{amsmath, amsthm, amssymb}
+#+LATEX_HEADER: \usepackage[margin=2cm]{geometry}
+#+LATEX_HEADER: \usepackage{url}
+#+LATEX_HEADER: \urlstyle{same}
+
+#+author: David Gentile
